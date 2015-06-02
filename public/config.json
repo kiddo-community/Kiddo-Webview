@@ -1,0 +1,27 @@
+{
+    "main": "public/index.html",
+    "name": "Kiddo Labs - Trello",
+    "description": "",
+    "version": "1.0.0",
+    "plugins" : {
+                "Dock":"Dock",
+                "Dialog":"Dialog",
+                "Fonts" : "Fonts",
+                "Clipboard":"Clipboard",
+                "StatusItem":"StatusItem",
+                "Task" : "Task",
+                "Sound" : "Sound",
+                "Defaults" : "Defaults",
+                "File" : "File"
+                 },
+    "window" : {
+        "title" : "Kiddo Labs - Trello",
+        "width" : 900,
+        "height" : 600,
+        "position": "center",
+        "min_width": 400,
+        "min_height": 200,
+        "opaque": 1,
+        "alpha": 1
+    }
+}
